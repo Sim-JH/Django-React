@@ -1,0 +1,15 @@
+.like_post{
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  align-items: center;
+  margin-bottom: 0.5em;
+
+  .location {
+    justify-self: left;
+  }
+
+  .name {
+    justify-self: right;
+  }
+
+}

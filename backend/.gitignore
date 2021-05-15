@@ -1,0 +1,4 @@
+db.sqlite3
+Dockerfile
+manage.py
+.dockerignore

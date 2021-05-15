@@ -1,0 +1,8 @@
+django~=3.0.0
+pillow
+djangorestframework
+django-cors-headers
+djangorestframework-jwt
+django-pydenticon
+bs4
+selenium

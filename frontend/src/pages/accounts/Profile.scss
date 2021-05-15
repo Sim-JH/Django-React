@@ -1,0 +1,33 @@
+.Profile{
+  display: flex;
+  align-items: center;
+  width: 768px;
+  height: 300px;
+
+  .profile_img {
+    margin-left: 50px;
+    margin-top: 20px;
+  }
+
+  .profile_items{
+    display: flex;
+    align-items: center;
+
+    .profile_code {
+      margin-left: 50px;
+      font-size: 15px;
+      font-weight: bold;
+
+    }
+
+    .profile_values{
+      margin-left: 50px;
+      .profile_name{
+        display: flex;
+      }
+    }
+  }
+
+
+}
+
